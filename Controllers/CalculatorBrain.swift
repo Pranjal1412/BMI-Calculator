@@ -2,7 +2,7 @@
 //  CalculatorBrain.swift
 //  BMI Calculator
 //
-//  Created by Chetan Shinde on 10/04/25.
+//  Created by Pranjal Shinde on 10/04/25.
 //  Copyright © 2025 Angela Yu. All rights reserved.
 //
 
